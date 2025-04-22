@@ -9,7 +9,9 @@
  */
 
 public class calculadora extends javax.swing.JFrame {
+     
 
+    static double num3=0
     static double num1=0,num2=0;
     static String operador=null;
     /**
